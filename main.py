@@ -32,8 +32,8 @@ right_score = 0
 Ball_reset = True
 
 # BGM
-bgm = pygame.mixer.Sound('Music/BGM.mp3')
-bgm.play(-1)
+# bgm = pygame.mixer.Sound('Music/BGM.mp3')
+# bgm.play(-1)
 
 # A sprite for the 1st Player's Paddle
 class Player_Paddle1(pygame.sprite.Sprite):
